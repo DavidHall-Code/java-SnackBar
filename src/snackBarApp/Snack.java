@@ -2,7 +2,7 @@ package snackBarApp;
 
 public class Snack
 {
-  private static maxId = 0;
+  private static int maxId = 0;
 
   private int id;
   private String name;

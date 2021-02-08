@@ -59,7 +59,12 @@ public class Customer
     this.cashOnHand -= snackCost * snackQuantity;
   }
 
+  @Override
+  public String toString()
+  {
+    return "Customer: " + name;
 
+  }
 
 
 }
