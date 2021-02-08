@@ -62,7 +62,7 @@ public class Snack
 // vendingMachineId
   public int getVendingMachineId()
   {
-    return vendingMachineId
+    return vendingMachineId;
   }
   public void setVendingMachineId(int vendingMachineId)
   {
